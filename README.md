@@ -3,9 +3,11 @@
 
 1) arrayText
 https://youtube.com/shorts/FK3vX9vcY7U?feature=share
+
 마우스를 따라가는 효과
 
-2) rain3
+3) rain3
 https://youtu.be/IrbPaqbaP8s
+
 빗줄기를 모티브로 만든 작품
 
