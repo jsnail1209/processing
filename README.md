@@ -1,12 +1,12 @@
-프로세싱: 디자이너가 배우는 코딩 언어
+# 프로세싱: 디자이너가 배우는 코딩 언어
 
-1) arrayText
+## arrayText
 
 마우스를 따라가는 효과
 
 https://youtube.com/shorts/FK3vX9vcY7U?feature=share
 
-2) rain3
+## rain3
 
 빗줄기를 모티브로 만든 작품
 
